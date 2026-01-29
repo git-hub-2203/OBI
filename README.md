@@ -1,2 +1,2 @@
 # OBI
-Resolução de problemas para a oOímpiada Brasileira de Informática
+Resolução de problemas da Oímpiada Brasileira de Informática 💻
